@@ -74,7 +74,7 @@ int main()
 	abstimmungen.waehlen("Hannelore Kraft", "Ministerpräsidentin", 1);
 	abstimmungen.wahlAuswertung();
 
-	// Mehrheitsentscheid Klasse ist << Operator überladen
+	// Mehrheitsentscheid Klasse << Operator überladen
 	cout << "Die Wahlen sind zu ende \n" << abstimmungen << endl;
 
 
